@@ -1,4 +1,3 @@
-# innsowl
 
 InnsOwl
 ======
@@ -8,7 +7,7 @@ knowledge site blog
 This repository contains knowledge main page and blog
 
 
-# 建议先参考官方站点操作方法
+# 官方示例
    https://github.com/pallets/flask/tree/master/examples/tutorial
 
 
